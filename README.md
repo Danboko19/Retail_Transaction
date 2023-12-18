@@ -43,39 +43,62 @@ Rate_type: The days of the week the shows was held, and give only two priors i.e
 ### Room Rate Analysis:
 #### What is the average room rate per month?
 The average avg_dialy rate of each month are as show under the table below
+
 ![Table 1 1](https://github.com/Danboko19/Retail_Transaction/assets/148493509/9db42258-2955-428b-9d86-89913833c873)
 #### Which property has the highest and lowest average room rates?#
 As show from the query below the room with the highest daily room rate is The sankey property with average daily rate of "$184.99"
+
 ![Capture 2](https://github.com/Danboko19/Retail_Transaction/assets/148493509/c98b57df-46b1-44b8-887d-fcadbfcefff0)
 And the property with lowest and affordable room rate was The Chord Property with an average daily rate of "$88.21" as shown below
+
 ![Capture 3](https://github.com/Danboko19/Retail_Transaction/assets/148493509/a992104a-2c7d-4ee4-8313-3bc50e109759)
 #### How do the room rates vary between weekdays and weekends?
 The average room rate was high during the weekend compared to the weekdays with a rate of "$160.29" during the weekend and "$142" during the weekdays
+
 ![capture 4](https://github.com/Danboko19/Retail_Transaction/assets/148493509/dccb46ad-7db8-458b-a1b9-017b735f7e6c)
 ### Reservation and Check-In Analysis:partition by property
 #### What is the average duration of stay based on the room type and property?
 The average during of stays in all room type of each property are shown in the diagram below, which are measured in days
+
 ![avg rate base on property nd room type](https://github.com/Danboko19/Retail_Transaction/assets/148493509/96b66c77-9cf3-405f-b841-b2b448a43866)
 #### Is there a correlation between the number of adults/children and the room type?
 The data shows no correlation between the room type and the type of occupant as there are almost the same number of children and adult in each room, but it can be shown in the image that the double room was the one with the most occupant with a total number of "64005" Adult and "63651" children occupant
+
 ![Is there a correlation between the number of adults children and the room type](https://github.com/Danboko19/Retail_Transaction/assets/148493509/dd68b99e-73c8-4d42-a260-e22e1e54c59a)
 
+#### How does the completion status relate to special requests?
+As show by the table below there was no correlation between special request and show completion status.
 
+![special request complerion](https://github.com/Danboko19/Retail_Transaction/assets/148493509/0cf5d9da-ef77-462c-a40b-83a5dde9d481)
 
+#### Which room type or property receives the most special requests?
+The room type with the most special request received is the double room which was also the room with the highest occubant which shows why it was the one with the most specail request received with a request of "12689".
 
+![room with the most special request](https://github.com/Danboko19/Retail_Transaction/assets/148493509/a782191e-7c00-4f92-a8dd-4eb6c4fe118b)
 
+#### Are special requests more common during weekdays or weekends?
+Special request were made the most during the weekdays more thn the weekends but if we are to count the days in the weekend to the weekdays, there are only two days in the weekend and five(5) days in the weekdays, they we can say each days in the weekend received more special request compare to the days in the weekdays.
 
+![special request days to weekend](https://github.com/Danboko19/Retail_Transaction/assets/148493509/bd97bfaa-c41d-4da2-bbb1-b795f152c1df)
 
+### Property and Rate Type Analysis:
+#### Which property has the highest occupancy rate or the most bookings?
+The sankey was the property with the most occupancy rate as shown in the query below.
 
+![occupant rate](https://github.com/Danboko19/Retail_Transaction/assets/148493509/65697d90-81da-4ff1-8d1a-feaf19e285dd)
 
+#### Compare the rate types across different properties.
+the occupant in each property both during the weekends and weekdays are shown in the imade below
 
+![weekdays weekends occupant in each property](https://github.com/Danboko19/Retail_Transaction/assets/148493509/64edef58-180b-4987-bfa1-542b75760522)
 
+#### Analyze the advanced booking trends based on the rate type.
+The advanced booking trend during the weekend and weekdays has being analyzed and shown in the image below
 
+![advanced booing rate](https://github.com/Danboko19/Retail_Transaction/assets/148493509/640911c0-b038-48ae-9912-46ae57b8fb00)
 
+### Cancellation and No-Show Analysis:
+#### What's the frequency of no-shows across different properties and room types?
+The rate of show canceled i each room across each property are as shown respectively
 
-
-
-
-
-
-
+![no shows across each property](https://github.com/Danboko19/Retail_Transaction/assets/148493509/97a94589-e8c5-4a56-ad1d-1be7aeda4e2f)
