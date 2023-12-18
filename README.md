@@ -42,13 +42,16 @@ Rate_type: The days of the week the shows was held, and give only two priors i.e
 ## DATA ANALYSIS RESULT
 ### Room Rate Analysis:
 #### What is the average room rate per month?
+
 The average avg_dialy rate of each month are as show under the table below
 
 ![Table 1 1](https://github.com/Danboko19/Retail_Transaction/assets/148493509/9db42258-2955-428b-9d86-89913833c873)
-#### Which property has the highest and lowest average room rates?#
+#### Which property has the highest and lowest average room rates?
+
 As show from the query below the room with the highest daily room rate is The sankey property with average daily rate of "$184.99"
 
 ![Capture 2](https://github.com/Danboko19/Retail_Transaction/assets/148493509/c98b57df-46b1-44b8-887d-fcadbfcefff0)
+
 And the property with lowest and affordable room rate was The Chord Property with an average daily rate of "$88.21" as shown below
 
 ![Capture 3](https://github.com/Danboko19/Retail_Transaction/assets/148493509/a992104a-2c7d-4ee4-8313-3bc50e109759)
