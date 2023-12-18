@@ -1,4 +1,4 @@
-# Retail_Transaction
+# HOSPITALITY
 ## AIMS AND OBJECTIVE
 1. To determine the trend in booing parterns
 2. To determine the most profitable booking agency
@@ -38,4 +38,44 @@ Property: This the name of the property used for the reservation
 Date: This is the booking date
 
 Rate_type: The days of the week the shows was held, and give only two priors i.e weekday and weekend(which saturdays and sundays fall under)
+
+## DATA ANALYSIS RESULT
+### Room Rate Analysis:
+#### What is the average room rate per month?
+The average avg_dialy rate of each month are as show under the table below
+![Table 1 1](https://github.com/Danboko19/Retail_Transaction/assets/148493509/9db42258-2955-428b-9d86-89913833c873)
+#### Which property has the highest and lowest average room rates?#
+As show from the query below the room with the highest daily room rate is The sankey property with average daily rate of "$184.99"
+![Capture 2](https://github.com/Danboko19/Retail_Transaction/assets/148493509/c98b57df-46b1-44b8-887d-fcadbfcefff0)
+And the property with lowest and affordable room rate was The Chord Property with an average daily rate of "$88.21" as shown below
+![Capture 3](https://github.com/Danboko19/Retail_Transaction/assets/148493509/a992104a-2c7d-4ee4-8313-3bc50e109759)
+#### How do the room rates vary between weekdays and weekends?
+The average room rate was high during the weekend compared to the weekdays with a rate of "$160.29" during the weekend and "$142" during the weekdays
+![capture 4](https://github.com/Danboko19/Retail_Transaction/assets/148493509/dccb46ad-7db8-458b-a1b9-017b735f7e6c)
+### Reservation and Check-In Analysis:partition by property
+#### What is the average duration of stay based on the room type and property?
+The average during of stays in all room type of each property are shown in the diagram below, which are measured in days
+![avg rate base on property nd room type](https://github.com/Danboko19/Retail_Transaction/assets/148493509/96b66c77-9cf3-405f-b841-b2b448a43866)
+#### Is there a correlation between the number of adults/children and the room type?
+The data shows no correlation between the room type and the type of occupant as there are almost the same number of children and adult in each room, but it can be shown in the image that the double room was the one with the most occupant with a total number of "64005" Adult and "63651" children occupant
+![Is there a correlation between the number of adults children and the room type](https://github.com/Danboko19/Retail_Transaction/assets/148493509/dd68b99e-73c8-4d42-a260-e22e1e54c59a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
