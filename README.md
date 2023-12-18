@@ -1,4 +1,4 @@
-# HOSPITALITY
+# HOSPITALITY ANALYSIS 
 ## AIMS AND OBJECTIVE
 1. To determine the trend in booing parterns
 2. To determine the most profitable booking agency
